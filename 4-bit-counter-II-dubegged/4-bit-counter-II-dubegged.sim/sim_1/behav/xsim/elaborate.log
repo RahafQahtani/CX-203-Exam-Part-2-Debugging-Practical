@@ -1,0 +1,14 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /home/it/Xilinx/Vivado/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab -wto 548a59efa71e407b8804c4873e23d626 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot bit4_counter_tb_behav xil_defaultlib.bit4_counter_tb xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bit-counter-II-dubegged/4-bit-counter-II-dubegged.srcs/sources_1/imports/4-bit-counter-II/counter_4bit.sv" Line 5. Module counter_4bit doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.counter_4bit
+Compiling module xil_defaultlib.bit4_counter_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot bit4_counter_tb_behav

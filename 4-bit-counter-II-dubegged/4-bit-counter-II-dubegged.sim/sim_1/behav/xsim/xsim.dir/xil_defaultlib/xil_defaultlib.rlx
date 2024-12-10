@@ -1,0 +1,7 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bit-counter-II-dubegged/4-bit-counter-II-dubegged.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bit-counter-II-dubegged/4-bit-counter-II-dubegged.srcs/sim_1/new/bit4-counter_tb.sv,1733814846,systemVerilog,,,,bit4_counter_tb,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bit-counter-II-dubegged/4-bit-counter-II-dubegged.srcs/sources_1/imports/4-bit-counter-II/counter_4bit.sv,1733815038,systemVerilog,,/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bit-counter-II-dubegged/4-bit-counter-II-dubegged.srcs/sim_1/new/bit4-counter_tb.sv,,counter_4bit,,,,,,,,

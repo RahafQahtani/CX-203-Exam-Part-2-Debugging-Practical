@@ -1,0 +1,17 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../k2-up-src-debugged.srcs/sources_1/imports/k2-up-src/2x1mux.sv" \
+"../../../../k2-up-src-debugged.srcs/sources_1/imports/k2-up-src/addsub.sv" \
+"../../../../k2-up-src-debugged.srcs/sources_1/imports/k2-up-src/alu.sv" \
+"../../../../k2-up-src-debugged.srcs/sources_1/imports/k2-up-src/core.sv" \
+"../../../../k2-up-src-debugged.srcs/sources_1/imports/k2-up-src/counter_n_bit.sv" \
+"../../../../k2-up-src-debugged.srcs/sources_1/imports/k2-up-src/decoder.sv" \
+"../../../../k2-up-src-debugged.srcs/sources_1/imports/k2-up-src/imem.sv" \
+"../../../../k2-up-src-debugged.srcs/sources_1/imports/k2-up-src/register.sv" \
+"../../../../k2-up-src-debugged.srcs/sim_1/new/tb_k2_up.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,33 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: /home/it/Xilinx/Vivado/Vivado/2019.1/bin/unwrapped/lnx64.o/xelab -wto d7117b740a9d458f9189522a10a07617 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_4_bitcount_behav xil_defaultlib.tb_4_bitcount xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/counter_4bit.sv" Line 1. Module counter_4bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/mux2x1.sv" Line 1. Module mux2x1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/mux2x1.sv" Line 1. Module mux2x1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/mux2x1.sv" Line 1. Module mux2x1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/mux2x1.sv" Line 1. Module mux2x1 doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/d_flipflop.sv" Line 1. Module d_flipflop doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/d_latch_asyn_rstn.sv" Line 1. Module d_latch_asyn_rstn doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/d_latch_asyn_rstn.sv" Line 1. Module d_latch_asyn_rstn doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/d_flipflop.sv" Line 1. Module d_flipflop doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/d_latch_asyn_rstn.sv" Line 1. Module d_latch_asyn_rstn doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/d_latch_asyn_rstn.sv" Line 1. Module d_latch_asyn_rstn doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/d_flipflop.sv" Line 1. Module d_flipflop doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/d_latch_asyn_rstn.sv" Line 1. Module d_latch_asyn_rstn doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/d_latch_asyn_rstn.sv" Line 1. Module d_latch_asyn_rstn doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/d_flipflop.sv" Line 1. Module d_flipflop doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/d_latch_asyn_rstn.sv" Line 1. Module d_latch_asyn_rstn doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/d_latch_asyn_rstn.sv" Line 1. Module d_latch_asyn_rstn doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.mux2x1
+Compiling module xil_defaultlib.d_latch_asyn_rstn
+Compiling module xil_defaultlib.d_flipflop
+Compiling module xil_defaultlib.counter_4bit
+Compiling module xil_defaultlib.tb_4_bitcount
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_4_bitcount_behav

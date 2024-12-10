@@ -1,0 +1,10 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sim_1/imports/new/tb_4_bitcount.sv,1733814240,systemVerilog,,,,tb_4_bitcount,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/counter_4bit.sv,1733813789,systemVerilog,,/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/d_flipflop.sv,,counter_4bit,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/d_flipflop.sv,1733815392,systemVerilog,,/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/d_latch_asyn_rstn.sv,,d_flipflop,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/d_latch_asyn_rstn.sv,1733814304,systemVerilog,,/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/mux2x1.sv,,d_latch_asyn_rstn,,,,,,,,
+/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sources_1/imports/4-bit-counter/mux2x1.sv,1733812209,systemVerilog,,/home/it/chip_design/commoncore/digitaldesign/cx-203-debugging-exam-main/4-bitcouter-debugged/4-bitcouter-debugged.srcs/sim_1/imports/new/tb_4_bitcount.sv,,mux2x1,,,,,,,,
